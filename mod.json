@@ -7,10 +7,10 @@
         "ios": "2.2074"
     },
     "version": "v1.7.12",
-    "id": "hiimjustin000.integrated_demonlist",
-    "name": "Integrated Demonlist",
-    "developer": "hiimjasmine00",
-    "description": "Simple AREDL and Pemonlist integration.",
+    "id": "hiimjustin000.integrated_scl",
+    "name": "Integrated SCL",
+    "developer": "hiimjasmine00 and Puremidnight",
+    "description": "made ts for fun idk.",
     "resources": {
         "files": [
             "resources/*.frag",
@@ -39,7 +39,7 @@
         "geode.node-ids": ">=v1.9.0"
     },
     "links": {
-        "community": "https://discord.gg/QVKmbvBXA7",
+        "community": "https://discord.gg/qXYwH5kppD",
         "source": "https://github.com/hiimjasmine00/IntegratedDemonlist",
         "homepage": "https://www.hiimjasmine00.com"
     },
